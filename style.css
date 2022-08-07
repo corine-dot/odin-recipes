@@ -1,0 +1,59 @@
+#title {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+    background-color: brown;
+    color: beige;
+}
+
+body {
+    background-color: beige;
+}
+
+.karinderya {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: auto;
+}
+
+.introduction {
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+#header {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: brown;
+    text-align: center;
+    fort-weight: bold;
+    font-size: 36px;
+}
+
+h3 {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: brown;
+    fort-weight: bold;
+}
+
+.review {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: brown;
+    fort-weight: bold;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+.details,
+.ingredients,
+.steps {
+    font-family: Copperplate, Papyrus, fantasy;
+}
